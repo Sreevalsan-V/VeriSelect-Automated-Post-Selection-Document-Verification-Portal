@@ -29,13 +29,6 @@
     },
     "twelfth_certificate": {
       "verified": true,
-      "subjects": {
-        "Physics": 95,
-        "Chemistry": 88,
-        "Maths": 91,
-        "ComputerScience": 93,
-        "English": 87
-      },
       "reason": "All subjects consistent"
     },
     "degree_certificate": {
